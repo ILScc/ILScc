@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, TypeScript, C</code>
 <code>📦 Tech stack: Vuejs, React, TS, node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@ilscc](https://telegram.me/ilscc)</code>
+<code>💬 telegram: [@ilscc](https://telegram.me/ilsccc)</code>
 <code>📫 [ilya.golovin.14.01.12@gmail.com](mailto:ilya.golovin.14.01.12@gmail.com)</code>
